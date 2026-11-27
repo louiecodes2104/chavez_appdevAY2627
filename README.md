@@ -13,3 +13,6 @@ Lab Activity 1: Discussion
 In this activity, I learned how to set up an Android project using Android Studio and understand the Activity Lifecycle. I observed how methods like onCreate(), onStart(), onResume(), onPause(), and onStop() work when rotating the screen or pressing the Home button.
 
 I also learned how to use Logcat to monitor the order of lifecycle events and hogit initgit checkout -b lab_act1w saving activity states helps preserve information when the screen rotates. Overall, this activity improved my understanding of Android Studio and basic Android application development.
+
+Laboratory Discussion – Lab Activity 2: Layout Hierarchy & Explicit/Implicit Intents  
+In this activity, I learned how to use ConstraintLayout, LinearLayout, and RelativeLayout to organize Android app interfaces. I also understood the difference between explicit and implicit Intents. Explicit Intents transfer data between activities, while implicit Intents allow the app to perform actions like sharing reports or opening the dialer.
